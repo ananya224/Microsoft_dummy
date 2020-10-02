@@ -1,2 +1,2 @@
 # Microsoft_dummy
-Tried to replicate Microsoft Website using HTML AND CSS
+Tried to replicate the Microsoft Website using HTML AND CSS
